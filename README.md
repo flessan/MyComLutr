@@ -1,6 +1,6 @@
  # +_= MyComLutr - Modern & Productive Terminal Configuration
 
-🌐 [🇬🇧 English](#english) | [🇮🇩 Bahasa Indonesia](#bahasa-indonesia)
+🌐 [🇬🇧 English](#-english) | [🇮🇩 Bahasa Indonesia](#-bahasa-indonesia)
 
 ---
 
